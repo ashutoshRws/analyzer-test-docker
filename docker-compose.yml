@@ -1,0 +1,4 @@
+services:
+  app:
+    build: .
+    image: analyzer-test-docker:1.0.0
